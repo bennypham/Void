@@ -1,2 +1,2 @@
 # Void
-Created a chat app in CS100 class at UCR
+Created an Android chat app in CS100 class at UCR
